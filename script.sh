@@ -1,4 +1,4 @@
-....#!/bin/bash
+...#!/bin/bash
 # Install Terraform
 sudo apt install wget -y
 wget -O- https://apt.releases.hashicorp.com/gpg | sudo gpg --dearmor -o /usr/share/keyrings/hashicorp-archive-keyring.gpg

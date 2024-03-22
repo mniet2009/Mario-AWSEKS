@@ -1,4 +1,3 @@
-
 terraform {
   backend "s3" {
     bucket = "mar24mar" # Replace with your actual S3 bucket name
